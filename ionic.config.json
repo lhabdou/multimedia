@@ -1,0 +1,7 @@
+{
+  "name": "multimedia",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
